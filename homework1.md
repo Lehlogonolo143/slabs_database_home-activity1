@@ -2,7 +2,7 @@
 
 
 
-![My Flowchart Process](3-tier pyramid.png)
+![anything](3-tier pyramid.png)
 
 
 Data Flow & Purpose: Explain what kind of data is processed at this level and 
