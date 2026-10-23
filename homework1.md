@@ -1,5 +1,10 @@
 # Author: LEHLOGONOLO
 
+
+
+![My Flowchart Process](3-tier pyramid.png)
+
+
 Data Flow & Purpose: Explain what kind of data is processed at this level and 
 how it supports decision-making
 
